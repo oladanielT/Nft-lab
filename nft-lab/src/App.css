@@ -1,0 +1,12 @@
+:root{
+  --background: #000000;
+  --white: #ffffff;
+  --text-bg:rgb(105,234,255);
+  --text-gradient:linear-gradient(90deg, rgba(105,234,255,0.01) 0%, rgba(234,204,248,0.01) 50%, rgba(102,84,241,0.01) 100%);
+}
+
+body{
+  background: var(--background);
+  color: var(--white);
+}
+

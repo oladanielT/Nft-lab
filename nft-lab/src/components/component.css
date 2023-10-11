@@ -1,0 +1,18 @@
+.header{
+    font-weight: 800;
+    letter-spacing: 12px;
+}
+
+.h-gradient{
+    /* background: rgb(105,234,255);
+    background: linear-gradient(90deg, rgba(105,234,203,1) 0%, rgba(234,204,248,1) 50%, rgba(102,84,241,1) 100%); */
+    background: rgb(92,108,245);
+    background: linear-gradient(90deg, rgba(92,108,245,1) 0%, rgba(204,248,212,1) 50%, rgba(148,60,236,1) 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent ;
+}
+.img-border{
+    border-color:rgb(92,108,245) ;
+    border-color:linear-gradient(90deg, rgba(92,108,245,1) 0%, rgba(204,248,212,1) 50%, rgba(148,60,236,1) 100%) ;
+    border-width: 2px;
+}
